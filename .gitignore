@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Optional: VSCode or JetBrains settings
+.vscode/
+.idea/
+
+# Render or deployment-specific
+render.yaml
